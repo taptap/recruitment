@@ -14,3 +14,12 @@
 * `SASS`
 * `TypeScript`
 * `AngularJS`
+
+### DevOps
+
+* `Shell`
+* `Python`
+* `Puppet`
+* `Cacti`
+* `Docker`
+* `BigData Experience Prefer`
