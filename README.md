@@ -1,25 +1,3 @@
-# Current Positions
+# Welcome
 
-### Golang Developer
-
-* `Golang 1+ year experience`
-* `Linux`
-* `Elasticsearch`
-* `Micro Service`
-
-### Frontend Developer
-
-* `CSS3`
-* `HTML5`
-* `SASS`
-* `TypeScript`
-* `AngularJS`
-
-### DevOps
-
-* `Shell`
-* `Python`
-* `Puppet`
-* `Cacti`
-* `Docker`
-* `BigData Experience Prefer`
+contact `d3V5YW5nQHRhcHRhcC5jb20=`
