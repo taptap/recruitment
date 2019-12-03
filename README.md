@@ -2,7 +2,6 @@
 
 If you are
 * `Java Developers`
-* `PHP Developers`
 * `Devops`
 * `Very Niubility Developers`
 
